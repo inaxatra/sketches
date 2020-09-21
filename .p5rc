@@ -1,0 +1,8 @@
+{
+  "name": "sketches",
+  "projects": [
+    "color_rings",
+    "circle_rings",
+    "dancing_colors"
+  ]
+}
